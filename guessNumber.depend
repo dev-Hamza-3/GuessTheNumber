@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603460310 source:c:\users\hamza\google drive\hamza\coding\coding problems\guessnumber\main.c
+	<stdio.h>
+	<stdlib.h>
+
